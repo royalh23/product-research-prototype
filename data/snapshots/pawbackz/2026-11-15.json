@@ -1,0 +1,71 @@
+{
+ "account": "pawbackz",
+ "date": "2026-11-15",
+ "followers": 3.0,
+ "posts_total": 4.0,
+ "store_link": "no",
+ "reels_read": 4,
+ "median_views_all": 1566.5,
+ "median_views_recent_2_14d": null,
+ "views_per_follower": 522.17,
+ "best_reel_views": 4143.0,
+ "best_reel_url": "https://www.instagram.com/reel/DfwTbSmJPeK/",
+ "outliers_last_14d": 0,
+ "momentum": null,
+ "days_since_last_post": 0.2,
+ "posts_last_7d": 4,
+ "posts_last_14d": 4,
+ "like_rate": 0.0143,
+ "comment_rate": 0.0006,
+ "forward_rate": 0.1176,
+ "reels": [
+  {
+   "url": "https://www.instagram.com/reel/DfwujDFJVuQ/",
+   "date": "2026-11-15",
+   "age": 0.2,
+   "pinned": false,
+   "views": 1817.0,
+   "likes": 26.0,
+   "comments": 1.0,
+   "shares": null,
+   "sends": 3.0,
+   "hook": "\"Dog girls impossible to gift\" | shocked selfie in clothing store | CTA comment bag | no price"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DfwTbSmJPeK/",
+   "date": "2026-11-15",
+   "age": 0.4,
+   "pinned": false,
+   "views": 4143.0,
+   "likes": 56.0,
+   "comments": 1.0,
+   "shares": 2.0,
+   "sends": 12.0,
+   "hook": "\"Dog girls hard to gift\" | plate lid lifted to reveal plush bag | CTA comment bag + #gift | no price"
+  },
+  {
+   "url": "https://www.instagram.com/reel/DfvvRRIN9RQ/",
+   "date": "2026-11-15",
+   "age": 0.6,
+   "pinned": false,
+   "views": 427.0,
+   "likes": null,
+   "comments": null,
+   "shares": null,
+   "sends": null,
+   "hook": ""
+  },
+  {
+   "url": "https://www.instagram.com/reel/DfvjSPZR31P/",
+   "date": "2026-11-15",
+   "age": 0.7,
+   "pinned": false,
+   "views": 1316.0,
+   "likes": 34.0,
+   "comments": 1.0,
+   "shares": null,
+   "sends": 4.0,
+   "hook": "DO NOT send this to a Dog Lover | man in Samoyed sweatshirt in shop | CTA comment bag | no price"
+  }
+ ]
+}

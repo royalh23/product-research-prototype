@@ -1,0 +1,14 @@
+agent_id,finished_at,id,new_products,new_reels,notes,query,reels_viewed,repeats_skipped,source,started_at
+import,2026-11-14T00:00:00+00:00,3e876ece-0d11-53e3-9b0a-b4ab7ef52a48,39,0,"Hunt 2026-11-14, feed: 70 reels viewed, 39 products with counts, 10 candidates",,70,0,feed,2026-11-14T00:00:00+00:00
+import,2026-11-15T00:00:00+00:00,4420501d-c5e5-581d-9e41-428ecda7953f,53,0,"Hunt 2026-11-15, feed: 68 reels viewed, 53 products, 8 candidates",,68,0,feed,2026-11-15T00:00:00+00:00
+import,2026-11-15T00:00:00+00:00,3623f75c-08f9-59c6-88de-f4c48aea85f0,70,0,"Hunt 2026-11-15, feed (batch 1, rebuilt): 70 products recorded, 10 candidates REBUILT from data/products.csv on 2026-11-15; original prose and reels-viewed count lost (report says batch 1, not batch 2).",,,0,feed,2026-11-15T00:00:00+00:00
+import,2026-11-16T20:19:00+00:00,5fc5673e-0ee0-5d13-8ffa-13924d8109cf,68,0,"Hunt 2026-11-16, feed: 69 reels viewed, 68 products, 11 candidates (4 PROVEN SALES)",,69,0,feed,2026-11-16T20:19:00+00:00
+import,2026-11-17T20:11:00+00:00,44114926-2ed0-5e7f-8a03-12c249ad6ef2,65,0,"Hunt 2026-11-17, feed: 70 reels viewed, 65 products, 5 candidates",,70,0,feed,2026-11-17T20:11:00+00:00
+import,2026-11-18T19:16:00+00:00,cae5d6fb-943b-5914-b8f9-9074656a9933,55,0,"Hunt 2026-11-18, feed: 73 reels viewed, ~55 products, 5 candidates",,73,0,feed,2026-11-18T19:16:00+00:00
+import,2026-11-18T22:21:00+00:00,0d9e7151-6f5d-5f5b-9655-7532bc2cb0d1,45,0,"Hunt 2026-11-18, feed: 70 reels viewed, ~45 products, 7 candidates",,70,0,feed,2026-11-18T22:21:00+00:00
+import,2026-11-19T19:55:00+00:00,4d4f62a7-df11-5618-8333-426e07ff9edb,27,0,"Hunt 2026-11-19, feed: 70 reels viewed, 27 products, 9 candidates",,70,0,feed,2026-11-19T19:55:00+00:00
+import,2026-11-19T21:30:00+00:00,03dd1764-0df8-5171-9dc7-f9dd76716f75,13,0,"Hunt 2026-11-19, feed: 70 reels viewed, 13 products recorded, 3 candidates",,70,0,feed,2026-11-19T21:30:00+00:00
+import,2026-11-19T22:50:00+00:00,26705a19-6c6b-5e1f-94b6-371036e24ec9,22,0,"Hunt 2026-11-19, search ""princess crops"" (targeted at Rauf's screenshots): ~65 reels viewed, 22 products, 0 clean candidates (all Disney-coded, so niche-only)",princess crops,65,0,search,2026-11-19T22:50:00+00:00
+import,2026-11-20T12:00:00+00:00,7e8754ce-f072-5572-8a27-802d70703bd5,40,0,"Hunt 2026-11-20, feed: 58 reels viewed, 40 products, 3 candidates (+3 niche-only)",,58,0,feed,2026-11-20T12:00:00+00:00
+import,2026-11-25T16:00:00+00:00,f08b6003-6f6e-5304-a350-5a99326d7e08,48,0,"Hunt 2026-11-25, feed: ~67 reels viewed, 48 products, 16 candidates",,67,0,feed,2026-11-25T16:00:00+00:00
+import,2026-11-14T00:00:00+00:00,e05c3c62-b78e-5390-9ae9-d8b4e7935802,,0,"All Hunts: master report (2026-11-14 → 2026-11-19) Master report merging the per-batch reports; its items were imported from those batch files, not twice.",,,0,hashtag,2026-11-14T00:00:00+00:00
